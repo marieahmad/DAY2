@@ -1,0 +1,13 @@
+body,
+html {
+    background-color: orange;
+}
+h1, h3 {
+    text-align: center
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto
+
+}
